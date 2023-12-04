@@ -1,0 +1,11 @@
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.exe.config
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.exe
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.pdb
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.xml
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.vbprojResolveAssemblyReference.cache
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.Resources.resources
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.vbproj.GenerateResource.Cache
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.exe
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.xml
+c:\users\mell\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Mell\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.appList.resources
